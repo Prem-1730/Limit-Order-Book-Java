@@ -58,10 +58,15 @@ Tested with synthetic order flow:
 
 com.lob
 ├── model
+
 ├── engine
+
 ├── service
+
 ├── simulator
+
 ├── util
+
 └── Main.java
 
 
@@ -79,3 +84,4 @@ com.lob
 - Simulate random orders
 - Execute matching
 - Print performance metrics
+

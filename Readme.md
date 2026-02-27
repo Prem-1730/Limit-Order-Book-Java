@@ -57,6 +57,7 @@ Tested with synthetic order flow:
 ## Project Structure
 
 com.lob
+
 ├── model
 
 ├── engine
@@ -84,4 +85,5 @@ com.lob
 - Simulate random orders
 - Execute matching
 - Print performance metrics
+
 
